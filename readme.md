@@ -2,7 +2,7 @@
 
 This mod was created by AleX to help facilitate better loading/wait times during events. Some admin intervention may still be required, but setup times are now to a minimum.
 
-If you would like to use this mod to run events, please ask. You can message me on Discord on the United [Front Discord Server](https://discord.gg/hJ3vpyrrTG), or by emailing me at alexgibbs606@gmail.com.
+If you would like to use this mod to run events, please ask. You can message me on Discord on the United [Front Discord Server](https://discord.gg/theunitedfront), or by emailing me at alexgibbs606@gmail.com.
 
 ## Event List
 
