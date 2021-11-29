@@ -1,4 +1,30 @@
-# UF_Holdout
+# United Front Events
+
+This mod was created by AleX to help facilitate better loading/wait times during events. Some admin intervention may still be required, but setup times are now to a minimum.
+
+If you would like to use this mod to run events, please ask. You can message me on Discord on the United [Front Discord Server](https://discord.gg/hJ3vpyrrTG), or by emailing me at alexgibbs606@gmail.com.
+
+## Event List
+
+A list of events included in the mod are below. Full event writeups, if available, can be accessed by clicking on the event name header.
+
+| Event Name | Layer Name |
+|-|-|
+| [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
+| [UF_Holdout](#uf-holdout) | `UF_Yeho_FOBDefense_v1` |
+
+
+### [Operation Longbow](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
+
+***Asymmetric CAF vs. INS one-life Cache Defense.***
+
+Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons cache. Intel about the operation was leaked by a NATO spy so expect heavy resistance as well as quick reinforcements. Drop 400m out, move in on foot, and get out alive. Good luck.
+
+[Event Writeup](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
+
+
+
+### UF Holdout
 
 ***Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.***
 
@@ -7,7 +33,7 @@ One-life US defends against an unrelenting RUS force at Sokolov, the US's last r
 
 ## Contributing
 
-If you're going to contribute, send me a message on discord and let me know what you plan on doing. Don't be lazy, put things in the correct directory, and only edit current files if necessary. Make a pull request and I'll do my best to get to it ASAP.
+If you're going to contribute, send me a Discord message or Email and let me know what you plan on doing. Don't be lazy, put things in the correct directory, and only edit current files if necessary. Make a pull request and I'll do my best to get to it ASAP.
 
 For most sections, there is a 'quickly' section that lists what you need to do as a reminder if you've done it before and just need a checklist.
 
@@ -31,8 +57,8 @@ Otherwise, clone this repo into the path `SquadEditor/Squad/Plugins/Mods/`
 
 ```console
 AleX@yennefer MINGW64 /f/SquadEditor/Squad/Plugins/Mods
-$ git clone git@github.com:alexgibbs606/UF_Holdout.git
-Cloning into 'UF_Holdout'...
+$ git clone git@github.com:alexgibbs606/UnitedFrontEvents.git
+Cloning into 'UnitedFrontEvents'...
 Enter passphrase for key '/c/Users/AleX/.ssh/id_rsa':
 remote: Enumerating objects: 124, done.
 remote: Counting objects: 100% (124/124), done.
@@ -44,7 +70,7 @@ Resolving deltas: 100% (17/17), done.
 AleX@yennefer MINGW64 /f/SquadEditor/Squad/Plugins/Mods
 $ ll
 total 4
-drwxr-xr-x 1 AleX 197121 0 Nov 26 11:07 UF_Holdout/
+drwxr-xr-x 1 AleX 197121 0 Nov 26 11:07 UnitedFrontEvents/
 ```
 
 #### Quickly
@@ -62,7 +88,7 @@ Now that you have the code, you'll need to link your assets before you build as 
 
 In each array element, you'll edit the 'Directories' element to point as the same directory that the CAF DLC is pointing at. In this example, I'm doing it for the `UF_Holdout` mod.
 
-![Asset manager example](docs/assetmanagerAddPath.gif)
+![Asset manager example](docs/assetManagerAddPath.gif)
 
 ***Note:** Element 0 should not be edited*
 
