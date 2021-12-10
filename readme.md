@@ -4,6 +4,8 @@ This mod was created by AleX to help facilitate better loading/wait times during
 
 If you would like to use this mod to run events, please ask. You can message me on Discord on the United [Front Discord Server](https://discord.gg/theunitedfront), or by emailing me at alexgibbs606@gmail.com.
 
+A copy of the code can be found on [GitHub](https://github.com/alexgibbs606/UnitedFrontEvents), please refernce license if you would like to alter it.
+
 ## Event List
 
 A list of events included in the mod are below. Full event writeups, if available, can be accessed by clicking on the event name header.
