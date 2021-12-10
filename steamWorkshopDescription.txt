@@ -1,0 +1,21 @@
+[h1]United Front Events[/h1]
+
+This mod was created by AleX to help facilitate better loading/wait times during events. Some admin intervention may still be required, but setup times are now to a minimum.
+
+If you would like to use this mod to run events, please ask. You can message me on Discord on the United [url=https://discord.gg/theunitedfront]Front Discord Server[/url], or by emailing me at alexgibbs606@gmail.com.
+
+A copy of the code can be found on [url=https://github.com/alexgibbs606/UnitedFrontEvents]GitHub[/url], please refernce license if you would like to alter it.
+
+[h2]Operation Longbow[/h2] UF_Kohat_CacheDefense_v1
+[i]Asymmetric CAF vs. INS one-life Cache Defense.[/i]
+
+Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons cache. Intel about the operation was leaked by a NATO spy so expect heavy resistance as well as quick reinforcements. Drop 400m out, move in on foot, and get out alive. Good luck.
+
+[url=https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing]Event Writeup[/url]
+
+[h2]UF Holdout[/h2] UF_Yehorivka_FOBDefense_v1
+[i]Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.[/i]
+
+US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
+One-life US defends against an unrelenting RUS force at Sokolov, the US's last remaining FOB in the area. US will get the 8 minute staging phase to construct non-lethal emplacements (save .50 cal) to defend against the attack.
+
