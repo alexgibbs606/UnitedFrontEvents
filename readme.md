@@ -24,8 +24,6 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 
 [Event Writeup](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
 
-
-
 ### UF Holdout
 
 ***Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.***
