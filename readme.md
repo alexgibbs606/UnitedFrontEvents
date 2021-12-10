@@ -11,7 +11,7 @@ A list of events included in the mod are below. Full event writeups, if availabl
 | Event Name | Layer Name |
 |-|-|
 | [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
-| [UF_Holdout](#uf-holdout) | `UF_Yeho_FOBDefense_v1` |
+| [UF_Holdout](#uf-holdout) | `UF_Yehorivka_FOBDefense_v1` |
 
 
 ### [Operation Longbow](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
