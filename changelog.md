@@ -43,7 +43,7 @@
 
 - UF_Kohat_CacheDefense_v1 escape vehicles are not spawning
 
-## v0.4
+## v0.4 Change Log:
 
 ### UF_Kohat_CacheDefense_v1:
 
@@ -52,3 +52,34 @@
 - CIV faction added to fix neutral vehicles spawning. resolves #1
 - Fixed issue with CAF sniper kit not being found
 - MISC bug fixes
+- MISC bug fixes
+
+## v0.5 Change Log
+
+- New steam workshop description
+
+### UF_Yehorivka_ROBDefense_v1:
+
+- Extended US staging area to include surrounding landmarks
+- Bug fixes with faction setup
+- Increasing game timer to include another 8 min to account for staging phase
+- Reduced tickets to RU=100 US=200 (This really doesn't matter)
+- Disabled US ability to make HAB's and TOW's
+- Disabled vehicle cleanup (vehicles will now last forever on map)
+	- Solves being unable to lean
+
+### UF_Kohat_CacheDefense_v1:
+
+- Disabled vehicle cleanup (vehicles will now last forever on map)
+
+## v0.6 Change Log
+
+v0.5 introduced major performance issues, I've rolled back and cherry picked only nessessary changes to alleviate the issue.
+
+Listed changes are things KEPT from the previous version
+
+### UF_Yehorivka_ROBDefense_v1:
+
+- Extended US staging area to include surrounding landmarks.
+- Added new US faction that doesn't have HAB, TOW, FOB, vehicle, or commander abilities.
+- Removed vehicle collision preventing infantry from leaning.
