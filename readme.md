@@ -2,9 +2,12 @@
 
 This mod was created by AleX to help facilitate better loading/wait times during events. Some admin intervention may still be required, but setup times are now to a minimum.
 
-If you would like to use this mod to run events, please ask. You can message me on Discord on the United [Front Discord Server](https://discord.gg/theunitedfront), or by emailing me at alexgibbs606@gmail.com.
+Join UF on discord to know when we run events, or for questions, comments, and concerns about the mod.
+<a href="https://discord.gg/theunitedfront">
+  ![UF banner](https://media.discordapp.net/attachments/575709050130661408/919516381043634176/927665AA-539B-4297-B507-7852DADD05C8.gif)
+</a>
 
-A copy of the code can be found on [GitHub](https://github.com/alexgibbs606/UnitedFrontEvents), please refernce license if you would like to alter it.
+Bug's can be reported on the [GitHub](https://github.com/alexgibbs606/UnitedFrontEvents) issue tracker.
 
 ## Event List
 
@@ -22,9 +25,7 @@ A list of events included in the mod are below. Full event writeups, if availabl
 
 Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons cache. Intel about the operation was leaked by a NATO spy so expect heavy resistance as well as quick reinforcements. Drop 400m out, move in on foot, and get out alive. Good luck.
 
-[Event Writeup](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
-
-### UF Holdout
+### Operation Survival
 
 ***Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.***
 
