@@ -87,7 +87,7 @@ Now that you have the code, you'll need to link your assets before you build as 
 
 ![Asset manager location](docs/assetManagerPath.png)
 
-In each array element, you'll edit the 'Directories' element to point as the same directory that the CAF DLC is pointing at. In this example, I'm doing it for the `UF_Holdout` mod.
+In each array element, you'll edit the 'Directories' element to point as the same directory that the CAF DLC is pointing at. In this example, I'm doing it for the `UnitedFrontEvents` mod.
 
 ![Asset manager example](docs/assetManagerAddPath.gif)
 

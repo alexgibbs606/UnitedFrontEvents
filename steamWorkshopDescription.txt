@@ -16,7 +16,7 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 
 [url=https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing]Event Writeup[/url]
 
-[h2]UF Holdout[/h2] UF_Yehorivka_FOBDefense_v1 UF_Mutaha_FOBDefense_v1
+[h2]Operation Survival[/h2] UF_Yehorivka_FOBDefense_v1 UF_Mutaha_FOBDefense_v1
 [i]Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.[/i]
 
 US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
