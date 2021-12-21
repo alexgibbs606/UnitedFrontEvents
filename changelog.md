@@ -83,3 +83,15 @@ Listed changes are things KEPT from the previous version
 - Extended US staging area to include surrounding landmarks.
 - Added new US faction that doesn't have HAB, TOW, FOB, vehicle, or commander abilities.
 - Removed vehicle collision preventing infantry from leaning.
+
+## v0.7 Change Log
+
+- Added new layer `UF_Mutaha_FOBDefense_v1`
+- FOB Defense Gamemode Staging phase reduced from 8 min to 5 min
+- Added vehicle cleanup to FOB Defense gamemode
+
+### UF_Yehorivka_FOBDefense_v1
+
+- Sokolov capture point has been tightened to only include inside walls of sokolov
+- Replaced all deployables with new blueprints to fix running man issues
+- RUS now has 3 logis, 1 transport, and 2 tigrs to use at admins discretion
