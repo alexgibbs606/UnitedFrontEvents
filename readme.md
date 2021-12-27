@@ -32,3 +32,9 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 
 US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
 One-life US defends against an unrelenting RUS force at Sokolov, the US's last remaining FOB in the area. US will get the 8 minute staging phase to construct non-lethal emplacements (save .50 cal) to defend against the attack.
+
+## Modding and Contributions
+
+If you're interested in contributing, check out the [contributing page](docs/contributing.md).
+
+If you're interested in learning how to make simple additions to squad, I've left some detailed documentation of what I've learned in the [modding guide](docs/moddingGuide.md).
