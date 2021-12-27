@@ -26,17 +26,12 @@ Once installed, you'll need to verify your Squad SDK files through the Epic Game
 
 ### Clone Repo
 
-
-<img style="float: right; padding: 5px;" src="img/nonGitDownload.png">
-
 You'll only need to do this if you're contributing to another project, and you'll want to make sure that you've launched the editor before cloning.
 
 If you're unfamiliar with Git and don't feel like using it, you can always head over to the GitHub page and download a zip from the 'Code' button in the top right corner. Otherwise, clone this repo into the path `SquadEditor/Squad/Plugins/Mods/`
 
-<br>
-<br>
+![Non terminal example](img/nonGitDownload.png)
 
-*Example clone:*
 
 ```console
 AleX@yennefer MINGW64 /f/SquadEditor/Squad/Plugins/Mods
