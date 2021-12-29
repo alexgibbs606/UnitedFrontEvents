@@ -95,3 +95,7 @@ Listed changes are things KEPT from the previous version
 - Sokolov capture point has been tightened to only include inside walls of sokolov
 - Replaced all deployables with new blueprints to fix running man issues
 - RUS now has 3 logis, 1 transport, and 2 tigrs to use at admins discretion
+
+## v0.7 Change Log
+
+- Added new layer `UF_Sumari_FOBDefense_v1`

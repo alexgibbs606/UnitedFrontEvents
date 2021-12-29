@@ -10,14 +10,14 @@ Join UF on discord to know when we run events, or for questions, comments, and c
 
 Bug's can be reported on the [url=https://github.com/alexgibbs606/UnitedFrontEvents]GitHub[/url] issue tracker.
 
-[h2]Operation Longbow[/h2], UF_Kohat_CacheDefense_v1
+[h2]Operation Longbow[/h2] [b]UF_Kohat_CacheDefense_v1[/b]
 [i]Asymmetric CAF vs. INS one-life Cache Defense.[/i]
 
 Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons cache. Intel about the operation was leaked by a NATO spy so expect heavy resistance as well as quick reinforcements. Drop 400m out, move in on foot, and get out alive. Good luck.
 
 [url=https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing]Event Writeup[/url]
 
-[h2]Operation Survival[/h2] UF_Yehorivka_FOBDefense_v1 UF_Mutaha_FOBDefense_v1
+[h2]Operation Survival[/h2] [b]UF_Yehorivka_FOBDefense_v1, UF_Mutaha_FOBDefense_v1, UF_Samarai_FOBDefense_v1[/b]
 [i]Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.[/i]
 
 US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
