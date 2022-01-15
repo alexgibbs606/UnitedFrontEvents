@@ -99,3 +99,9 @@ Listed changes are things KEPT from the previous version
 ## v0.7 Change Log
 
 - Added new layer `UF_Sumari_FOBDefense_v1`
+
+## v0.8 Change Log
+
+### UF_Yehorivka_FOBDefense_v1
+
+- Fixed bug about ammo crate not showing up
