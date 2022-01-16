@@ -105,3 +105,26 @@ Listed changes are things KEPT from the previous version
 ### UF_Yehorivka_FOBDefense_v1
 
 - Fixed bug about ammo crate not showing up
+
+## v0.9 Change Log
+
+- Removed combat engineer limit for USA OneLife faction
+- Added UF_RUS_Infinite_Attackers
+
+### UF_Yehorivka_FOBDefense_v1
+
+- Reduced RU tickets to 100
+- Reduced defense capture point time from 120 to 40 seconds
+- Changed US spawn icon to rally instead of main base
+### UF_Sumari_FOBDefense_v1
+
+- Reduced RU tickets to 100
+- Reduced defense capture point time from 120 to 40 seconds
+### UF_Mutaha_FOBDefense_v1
+
+- Reduced RU tickets to 100
+- Reduced defense capture point time from 120 to 40 seconds
+
+### Known Bugs
+
+- Unable to reproduce inability to primary fire on PIE, will continue to investigate
