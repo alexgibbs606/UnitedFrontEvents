@@ -128,3 +128,9 @@ Listed changes are things KEPT from the previous version
 ### Known Bugs
 
 - Unable to reproduce inability to primary fire on PIE, will continue to investigate
+
+## v0.10 Change Log
+
+- Added new layer UF_Fallujah_HVTHunt_v1
+- added new gamemode HVT Hunt
+- Added new CAF Faction for UF_Fallujah_HVTHunt_v1
