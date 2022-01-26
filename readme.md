@@ -14,9 +14,10 @@ Bug's can be reported on the [GitHub](https://github.com/alexgibbs606/UnitedFron
 
 A list of events included in the mod are below. Full event writeups, if available, can be accessed by clicking on the event name header.
 
-| Event Name | Layer Names |
+| Event/Gamemode Name | Layer Names |
 |-|-|
 | [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
+| [Operation Survival](#operation-survival) | `UF_Yehorivka_FOBDefense_v1` `UF_Mutaha_FOBDefense_v1` `UF_Sumarai_FOBDefense_v1` |
 | [Operation Neptune Spear](#operation-neptune-spear) | `UF_Fallujah_HVTHunt_v1` |
 
 
