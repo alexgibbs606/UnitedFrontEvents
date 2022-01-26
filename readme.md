@@ -17,7 +17,7 @@ A list of events included in the mod are below. Full event writeups, if availabl
 | Event Name | Layer Names |
 |-|-|
 | [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
-| [UF_Survival](#uf-survival) | `UF_Yehorivka_FOBDefense_v1` `UF_Mutaha_FOBDefense_v1` `UF_Sumarai_FOBDefense_v1` |
+| [Operation Neptune Spear](#operation-neptune-spear) | `UF_Fallujah_HVTHunt_v1` |
 
 
 ### [Operation Longbow](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
@@ -32,6 +32,12 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 
 US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
 One-life US defends against an unrelenting RUS force at Sokolov, the US's last remaining FOB in the area. US will get the 8 minute staging phase to construct non-lethal emplacements (save .50 cal) to defend against the attack.
+
+### [Operation Neptune Spear](https://docs.google.com/document/d/1obIT8PYWr2mtyYGo8qHYwKD4ZWztqBXWe9S8eN9Fago/edit?usp=sharing)
+
+***Asymmetric CAF vs. INS one-life High Value Target hunt.***
+
+Elusive Al Qaeda leader Osama Bin Laden has been located, hiding in plain sight in a small urban compound. The United States will conduct an aerial raid on his compound, with the primary objective of killing or capturing Osama Bin Laden and the secondary objective of securing Al Qaeda intelligence.
 
 ## Modding and Contributions
 
