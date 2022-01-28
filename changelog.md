@@ -134,3 +134,21 @@ Listed changes are things KEPT from the previous version
 - Added new layer UF_Fallujah_HVTHunt_v1
 - added new gamemode HVT Hunt
 - Added new CAF Faction for UF_Fallujah_HVTHunt_v1
+
+## v0.11 Change Log
+
+### UF_Fallujah_HVTHunt_v1:
+
+- Removed protection zone in Team1 main that prevented vehicle from working correctly.
+- Moved the map camera location to the compound that the teams are fighting over.
+- Added a black hawk on team 2 inside the compound, but the vehicle isn't spawning and I'm unable to start it with damage for now
+- Disabled 'Force all role availability' in layer config
+- INS MG and Sniper set to same access as scoped medic (1 per squad with a squad of 2+)
+- CAF MG and Sniper set to same access as scoped medic (1 per squad with a squad of 2+)
+- Removing Unarmed from CAF
+- CAF Combat Engineer unlimited count
+- Reduced INS tickets to 104
+- Reduced INS infantry ticket loss to 0
+- Reduced INS commander ticket loss to 100
+- The result of these changes is that any number of infantry can die, but the commander and a single helicopter will end the match.
+- Updated gamemode to restrict each player to only a single life.
