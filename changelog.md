@@ -152,3 +152,12 @@ Listed changes are things KEPT from the previous version
 - Reduced INS commander ticket loss to 100
 - The result of these changes is that any number of infantry can die, but the commander and a single helicopter will end the match.
 - Updated gamemode to restrict each player to only a single life.
+
+## v0.12 Change Log
+
+- Removed UF_Fallujah_HVTHunt_v1 as the layer has gotten too broken.
+- Added UF_Narva_HVTEscort_v1
+
+### UF_Narva_HVTEscort_v1:
+
+- Submitted for playtesting, see mod channel for "design image"
