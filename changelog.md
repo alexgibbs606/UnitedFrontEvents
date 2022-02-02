@@ -173,3 +173,8 @@ Listed changes are things KEPT from the previous version
 ### UF_Sumarai_FOBDefense_v1:
 
 - Overhauled team system to set attackers to team1. This streamlines invasion settings and prevents bugs/unexpected invasion outcomes.
+
+
+## v0.13 Change Log
+
+- Bug hotfix for UF_Narva_HVTEscort_v1 from Feb 1st playtest
