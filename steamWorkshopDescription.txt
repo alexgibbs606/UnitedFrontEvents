@@ -53,7 +53,7 @@ One-life US defends against an unrelenting RUS force at Sokolov, the US's last r
 
 HVT escort team is tasked with escorting their HVT (commander) to a given point on the map. The map is open, use the landscape to your advantage. This is a slower mission so it could be paired with some high-paced action missions like a FOB defense or something similar. Team members have two lives each, use them wisely.
 
-[h2]HVT Escort[/h2] [b]UF_Logar_BAAS_v1[/b]
+[h2]Bolty Bois[/h2] [b]UF_Logar_BAAS_v1[/b]
 [i]Symmetric BAAS US vs. US tickets or spawn kill mission.[/i]
 
 Each team has a temporary spawn for their inital spawn to build a HAB in the compound they spawned in. They are to kill the other team while playing an AAS style game. Once the last point has been taking, the enemy main can be sieged and taken.
