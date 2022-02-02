@@ -155,9 +155,21 @@ Listed changes are things KEPT from the previous version
 
 ## v0.12 Change Log
 
-- Removed UF_Fallujah_HVTHunt_v1 as the layer has gotten too broken.
-- Added UF_Narva_HVTEscort_v1
+- Removed `UF_Fallujah_HVTHunt_v1` as the layer has gotten too broken.
+- Added `UF_Narva_HVTEscort_v1`
 
 ### UF_Narva_HVTEscort_v1:
 
 - Submitted for playtesting, see mod channel for "design image"
+
+### UF_Yehorivka_FOBDefense_v1:
+
+- Overhauled team system to set attackers to team1. This streamlines invasion settings and prevents bugs/unexpected invasion outcomes.
+
+### UF_Mutaha_FOBDefense_v1:
+
+- Overhauled team system to set attackers to team1. This streamlines invasion settings and prevents bugs/unexpected invasion outcomes.
+
+### UF_Sumarai_FOBDefense_v1:
+
+- Overhauled team system to set attackers to team1. This streamlines invasion settings and prevents bugs/unexpected invasion outcomes.
