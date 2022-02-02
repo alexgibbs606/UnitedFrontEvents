@@ -178,3 +178,9 @@ Listed changes are things KEPT from the previous version
 ## v0.13 Change Log
 
 - Bug hotfix for UF_Narva_HVTEscort_v1 from Feb 1st playtest
+
+## v0.14 Change Log
+
+- Added BoltyBois gamemode
+- Added BoltyBois faction
+- Added UF_Logar_BAAS_v1 (boltybois)

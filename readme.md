@@ -19,6 +19,7 @@ A list of events included in the mod are below. Full event writeups, if availabl
 | [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
 | [Operation Survival](#operation-survival) | `UF_Yehorivka_FOBDefense_v1` `UF_Mutaha_FOBDefense_v1` `UF_Sumarai_FOBDefense_v1` |
 | [HVT Escort](#hvt-escort) | `UF_Narva_HVTEscort_v1` |
+| [Bolty Bois](#bolty-bois) | `UF_Logar_BAAS_v1` |
 
 
 ### [Operation Longbow](https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing)
@@ -39,6 +40,12 @@ One-life US defends against an unrelenting RUS force at Sokolov, the US's last r
 ***Symmetric US vs. RUS two-life High Value Target escort mission.***
 
 HVT escort team is tasked with escorting their HVT (commander) to a given point on the map. The map is open, use the landscape to your advantage. This is a slower mission so it could be paired with some high-paced action missions like a FOB defense or something similar. Team members have two lives each, use them wisely.
+
+### HVT Escort
+
+***Symmetric BAAS US vs. US tickets or spawn kill mission.***
+
+Each team has a temporary spawn for their inital spawn to build a HAB in the compound they spawned in. They are to kill the other team while playing an AAS style game. Once the last point has been taking, the enemy main can be sieged and taken.
 
 ## Modding and Contributions
 
