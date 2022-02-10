@@ -184,3 +184,7 @@ Listed changes are things KEPT from the previous version
 - Added BoltyBois gamemode
 - Added BoltyBois faction
 - Added UF_Logar_BAAS_v1 (boltybois)
+
+## v0.15 Change Log
+
+- Updating Squad version to 1.12
