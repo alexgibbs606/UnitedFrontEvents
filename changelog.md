@@ -188,3 +188,12 @@ Listed changes are things KEPT from the previous version
 ## v0.15 Change Log
 
 - Updating Squad version to 1.12
+
+## v0.16 Change Log
+
+### UF_Narva_HVTEscort_v1
+
+- Updating RUS commander spawn from 100 to 1000 tickets
+- Updating RUS TRAN spawners to spawn the team included vehicles
+- Updated escape zone capture to linear curve as 2 players at 80 seconds to 7 players at 30 seconds
+- Updated temp spawn from 90 second lifespan to 210 seconds
