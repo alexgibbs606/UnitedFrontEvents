@@ -197,3 +197,7 @@ Listed changes are things KEPT from the previous version
 - Updating RUS TRAN spawners to spawn the team included vehicles
 - Updated escape zone capture to linear curve as 2 players at 80 seconds to 7 players at 30 seconds
 - Updated temp spawn from 90 second lifespan to 210 seconds
+
+## v0.17 Change Log
+
+- Adding new custom flag
