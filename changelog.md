@@ -210,3 +210,9 @@ Listed changes are things KEPT from the previous version
 
 - Reduced min required player difference to cap airfield from 3 to 2
 - Reduced spawn limit of vehicles on fools road gas station to 1
+
+## v0.19 Change Log
+
+### UF_Logar_Valley_BAAS_v1
+
+- Updating capture points to be in order and appear on game load.
