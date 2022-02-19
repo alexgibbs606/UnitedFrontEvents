@@ -41,7 +41,7 @@ One-life US defends against an unrelenting RUS force at Sokolov, the US's last r
 
 HVT escort team is tasked with escorting their HVT (commander) to a given point on the map. The map is open, use the landscape to your advantage. This is a slower mission so it could be paired with some high-paced action missions like a FOB defense or something similar. Team members have two lives each, use them wisely.
 
-### HVT Escort
+### Bolty Bois
 
 ***Symmetric BAAS US vs. US tickets or spawn kill mission.***
 
