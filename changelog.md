@@ -205,3 +205,8 @@ Listed changes are things KEPT from the previous version
 ## v0.18 Change Log
 
 - Fixing reference that prevented bolty bois from appearing in layer list
+
+### UF_Narva_HVTEscort_v1
+
+- Reduced min required player difference to cap airfield from 3 to 2
+- Reduced spawn limit of vehicles on fools road gas station to 1
