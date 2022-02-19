@@ -201,3 +201,7 @@ Listed changes are things KEPT from the previous version
 ## v0.17 Change Log
 
 - Adding new custom flag
+
+## v0.18 Change Log
+
+- Fixing reference that prevented bolty bois from appearing in layer list
