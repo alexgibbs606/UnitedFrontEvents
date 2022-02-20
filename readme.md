@@ -30,7 +30,7 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 
 ### Operation Survival
 
-***Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.***
+***Symmetric USA vs. RUS one-life FOB defense with unlimited attacker spawns.***
 
 US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
 One-life US defends against an unrelenting RUS force at Sokolov, the US's last remaining FOB in the area. US will get the 8 minute staging phase to construct non-lethal emplacements (save .50 cal) to defend against the attack.
