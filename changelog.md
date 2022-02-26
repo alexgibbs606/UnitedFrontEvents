@@ -66,7 +66,7 @@
 - Reduced tickets to RU=100 US=200 (This really doesn't matter)
 - Disabled US ability to make HAB's and TOW's
 - Disabled vehicle cleanup (vehicles will now last forever on map)
-	- Solves being unable to lean
+  - Solves being unable to lean
 
 ### UF_Kohat_CacheDefense_v1:
 
@@ -216,3 +216,37 @@ Listed changes are things KEPT from the previous version
 ### UF_Logar_Valley_BAAS_v1
 
 - Updating capture points to be in order and appear on game load.
+
+## v0.20 Change Log
+
+- Brought Operation Longbow to state that is ready for playtest on `UF_Kohat_CacheDefense_v2`. v1 remains unplayable and will be deprecated once all assets and data have been transferred.
+- Added `UF_SupplyCache` asset that takes the place of a FOB for Cache Defense game mode and supplies defending team with a FOB as well as the objective
+- Added FOB exclusion radius table with Cache Defense values
+- Additional MISC bug fixes. And I mean misc as in "idk what I changed" and "I hope I didn't break something but I'm committing this anyway"
+### UF_SupplyCache
+- Ends game when destroyed, looks like INS radio
+- Does not require logistics vehicle to place
+- Does not require teammate to place
+- Does not have exposed ammo per second, ammo, or construction value. This needs to be set in blueprint. It's currently 200 ammo with 1/sec, and 20,000 construction.
+- Will require layer to update FOB exclusion radius in data asset and set value to `01_CacheDefense` for 100,000 units build distance and 1,000,000 units exclusion radius, which should prevent another FOB from being built on the same map
+
+### UF_Gamemode_CacheDefense
+
+- Changed game time to 60 min
+- Updated display name to 'Cache Defense'
+- Added rule set class that prevents vehicle cleanup
+
+### UF_Kohat_CacheDefense_v2
+
+- Fixed lots of game-breaking bugs that were introduced when the layer was first created
+
+- Team 1 - CAF
+  - Corrected team on FOB Connolly deployables
+  - Altered role requirements to match design doc
+  - Repaired vehicle spawn issues
+
+- Team 2 - INS
+  - Removed build zone
+  - Updated team radio to supply cache, the objective of this game mode
+  - Reduced staging phase box size to match expeced bounds
+  - Altered role requirements to match design doc
