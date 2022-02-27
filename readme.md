@@ -49,6 +49,6 @@ Each team has a temporary spawn for their inital spawn to build a HAB in the com
 
 ## Modding and Contributions
 
-If you're interested in contributing, check out the [contributing page](docs/contributing.md).
+If you're interested in contributing, check out the [contributions page](docs/readme.md).
 
-If you're interested in learning how to make simple additions to squad, I've left some detailed documentation of what I've learned in the [modding guide](docs/moddingGuide.md).
+If you're interested in learning how to make simple additions to squad, I've left some detailed documentation of what I've learned in the [modding guide](docs/moddingGuide.md) and [creating assets guide](docs/creatingAssets.md).

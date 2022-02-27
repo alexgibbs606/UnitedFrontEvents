@@ -1,6 +1,6 @@
 # Creating Assets
 
-## Table of Contents
+## Contents
 
 - [Using this guide](#using-this-guide)
 - [Copying a level](#copying-a-level)

@@ -1,6 +1,6 @@
 # Squad Editor Getting Started
 
-This is a quick and simple guide to getting started making simple edits to squad. If you're looking to contribute to this repo, check out [the contributions page](contributing.md).
+This is a quick and simple guide to getting started making simple edits to squad. If you're looking to contribute to this repo, check out [the contributions page](/docs/readme.md).
 
 ### Contents
 
