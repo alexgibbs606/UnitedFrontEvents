@@ -16,8 +16,8 @@ A list of events included in the mod are below. Full event writeups, if availabl
 
 | Event/Gamemode Name | Layer Names |
 |-|-|
-| [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v1` |
-| [Operation Survival](#operation-survival) | `UF_Yehorivka_FOBDefense_v1` `UF_Mutaha_FOBDefense_v1` `UF_Sumarai_FOBDefense_v1` |
+| [Operation Longbow](#operation-condor) | `UF_Kohat_CacheDefense_v2` |
+| [Operation Survival](#operation-survival) | `UF_Yehorivka_FOBDefense_v1` `UF_Mutaha_FOBDefense_v1` `UF_Sumarai_FOBDefense_v1` `UF_Manic_FOBDefense_v1` |
 | [HVT Escort](#hvt-escort) | `UF_Narva_HVTEscort_v1` |
 | [Bolty Bois](#bolty-bois) | `UF_Logar_BAAS_v1` |
 

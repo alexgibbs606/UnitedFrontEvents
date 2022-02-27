@@ -250,3 +250,7 @@ Listed changes are things KEPT from the previous version
   - Updated team radio to supply cache, the objective of this game mode
   - Reduced staging phase box size to match expeced bounds
   - Altered role requirements to match design doc
+
+## v0.21 Change Log
+
+- Added new FOB Defense layer `UF_Manic_FOBDefense_v1`
