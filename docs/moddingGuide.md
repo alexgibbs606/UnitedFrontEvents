@@ -2,6 +2,8 @@
 
 This is a quick and simple guide to getting started making simple edits to squad. If you're looking to contribute to this repo, check out [the contributions page](/docs/readme.md).
 
+There is also a quick guide to [copying vanilla assets or creating your own](/docs/creatingAssets.md).
+
 ### Contents
 
 - [Squad SDK Setup](#squad-sdk-setup)

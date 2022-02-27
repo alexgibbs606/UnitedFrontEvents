@@ -1,15 +1,15 @@
 # Creating Assets
 
-## Contents
+***Using this guide:***
+
+Assets only explained in the [appendix](#appendix), only enough information is given to complete the task at hand. If referenced, those assets will have a link.
+
+### Contents
 
 - [Using this guide](#using-this-guide)
 - [Copying a level](#copying-a-level)
 - [Copying a layer](#copying-a-layer)
 - [Appendix](#appendix)
-
-### Using this guide:
-
-Assets only explained in the [appendix](#appendix), only enough information is given to complete the task at hand. If referenced, those assets will have a link.
 
 ## Copying a level
 
