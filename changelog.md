@@ -254,3 +254,16 @@ Listed changes are things KEPT from the previous version
 ## v0.21 Change Log
 
 - Added new FOB Defense layer `UF_Manic_FOBDefense_v1`
+
+## v0.22 Change Log
+
+- Tweaks on `UF_Manic_FOBDefense_v1`
+
+### UF_Manic_FOBDefense_v1
+
+- Increased staging zone timers to 300 seconds
+- Increased defender temp-spawn lifespan to 480 seconds
+
+## v0.23 Change Log
+
+- Added `UF_Tallil_Outskirts_FOBDefense_v1` and ready for playtest
