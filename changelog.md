@@ -274,6 +274,10 @@ Listed changes are things KEPT from the previous version
 
 ## v0.34 Change Log
 
+### UF_Manic_FOBDefense_v1
+
+- Updated capture time curve to FOB Defense capture point curve
+
 ### UF_Kohat_CacheDefense_v2
 
 - Removed unessessary points
