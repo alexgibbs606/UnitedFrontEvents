@@ -16,9 +16,16 @@ If you open then side by side, you can right-click to copy and right-click to pa
 
 If for some reason the copy/paste method isn't working, pull them up side-by-side and copy the information manually. I also feel sorry for you because this has saved me hours of my life.
 
+- Reduce capture zones to 3, setup attack point and move team1 main to attacker main
+- Setup the InvasionGraph to correct path
+
+
+
+- Move attackers main
+
 
 
 > @TODO
 > - Open layer and alter to setup for FOB Defense
-> - Check for lifetimes of temp spawns
-> - Check for lifetimes of staging zones
+  - `Actor/Initial Life Span`: 480
+  - `Barrier Params/Staging Time in Seconds`: 300
