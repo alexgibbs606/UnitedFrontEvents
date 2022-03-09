@@ -271,3 +271,14 @@ Listed changes are things KEPT from the previous version
 ### UF_Manic_FOBDefense_v1
 
 - Removed staging phase box from defenders #4
+
+## v0.34 Change Log
+
+### UF_Kohat_CacheDefense_v2
+
+- Removed unessessary points
+- Updated CAF spawns to die after 660 seconds
+- Updated all spawns to be rally spawns
+- For now, set all escape vehicles to be owned by CAF to prevent meta from INS
+- Did not update CAF role requirements, everything looks as it should be. Riflemen are considered LAT kits and shouldn't be taking. Most INF should be snipers.
+- Investigated unlocking escape point at lower mohd zai. This is possible with more work. Point exists while locked for now, will hopefully make progress on soon.
