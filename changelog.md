@@ -286,3 +286,10 @@ Listed changes are things KEPT from the previous version
 - For now, set all escape vehicles to be owned by CAF to prevent meta from INS
 - Did not update CAF role requirements, everything looks as it should be. Riflemen are considered LAT kits and shouldn't be taking. Most INF should be snipers.
 - Investigated unlocking escape point at lower mohd zai. This is possible with more work. Point exists while locked for now, will hopefully make progress on soon.
+
+### UF_Logar_Valley_BAAS_v1
+
+- Updated both temp spawns to 240 seconds
+- Reduced respawn delay to 0
+- Added another bolty bois faction for CAF to have different player skins
+- Added SKS to bolty boi factions as a second rifleman
