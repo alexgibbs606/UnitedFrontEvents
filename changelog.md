@@ -310,3 +310,5 @@ Listed changes are things KEPT from the previous version
 
 ### UF_Sumari_FOBDefense_v1:
 - Updated layer camera
+ 
+- Added rocket man to US one-life defenders
