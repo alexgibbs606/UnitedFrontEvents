@@ -312,3 +312,6 @@ Listed changes are things KEPT from the previous version
 - Updated layer camera
  
 - Added rocket man to US one-life defenders
+### UF_Logar_Valley_BAAS_v1
+
+- Updated capture points for FOB defense curve and only require 1 player to capture
