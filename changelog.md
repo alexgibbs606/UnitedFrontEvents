@@ -293,3 +293,20 @@ Listed changes are things KEPT from the previous version
 - Reduced respawn delay to 0
 - Added another bolty bois faction for CAF to have different player skins
 - Added SKS to bolty boi factions as a second rifleman
+
+## v0.34 Change Log
+
+### UF_Tallil_Outskirts_FOBDefense_v1:
+- Updated spawn location map icons
+- Reduced spawn count on northern CAF helis'
+- Removed staging phase zone to see if that is what is causing lack of building ability
+- Updated level location in asset browser
+
+### UF_Kohat_CacheDefense_v2:
+- Another method of removing main spawns at runtime
+- Tied destruction of supply cache to capture of another point. This should allow CAF to destroy radio then go to escape.
+- Set ticket and escape point requirement to 50% of remaining players once the radio is destroyed.
+- Enabled fog of war
+
+### UF_Sumari_FOBDefense_v1:
+- Updated layer camera
