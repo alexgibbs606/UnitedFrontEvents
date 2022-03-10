@@ -316,3 +316,4 @@ Listed changes are things KEPT from the previous version
 
 - Updated capture points for FOB defense curve and only require 1 player to capture
 - Removing radio from both bolty boi faction setups
+- Increased radio effect radius
