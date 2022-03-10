@@ -4,7 +4,7 @@ This mod was created by AleX to help facilitate better loading/wait times during
 
 Join UF on discord to know when we run events, or for questions, comments, and concerns about the mod.
 
- <a href="https://discord.gg/theunitedfront">
+<a href="https://discord.me/unitedfront">
   ![UF banner](https://media.discordapp.net/attachments/575709050130661408/919516381043634176/927665AA-539B-4297-B507-7852DADD05C8.gif)
 </a>
 
