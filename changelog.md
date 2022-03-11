@@ -294,7 +294,7 @@ Listed changes are things KEPT from the previous version
 - Added another bolty bois faction for CAF to have different player skins
 - Added SKS to bolty boi factions as a second rifleman
 
-## v0.34 Change Log
+## v0.35 Change Log
 
 ### UF_Tallil_Outskirts_FOBDefense_v1:
 - Updated spawn location map icons
@@ -310,10 +310,38 @@ Listed changes are things KEPT from the previous version
 
 ### UF_Sumari_FOBDefense_v1:
 - Updated layer camera
- 
+
+## v0.36 Change Log
+
 - Added rocket man to US one-life defenders
+
 ### UF_Logar_Valley_BAAS_v1
 
 - Updated capture points for FOB defense curve and only require 1 player to capture
 - Removing radio from both bolty boi faction setups
 - Increased radio effect radius
+- Fixed the inability to step up onto the steps near Central DC 2 capture point
+- PPSH and SKS kits have reworked restrictions
+  - PPSH is CE, two per team and limited
+  - SKS is Grenadier, one for every 5 team members, limited to 1 per squad
+- All kits now have Makorov for pistol save MG that has m17
+
+### UF_Kohat_CacheDefense_v1
+
+- Decreased required players to cap supply cache to -100
+
+### UF_Sumari_FOBDefense_v1
+
+- Removed staging zone box
+
+
+### UF_Tallil_Outskirts_FOBDefense_v1
+
+- Removed gamemode override
+- Updated layer display name
+- Set main2 to die 10 seconds after match start
+- Updated defense point capture zone values
+- Fixed not being able to see point on RUS
+- Increased Heli spawn height by another 20 to prevent spawn collisions
+- Reduced vehicle spawns to 1 spawn
+- Fixed timer issue
