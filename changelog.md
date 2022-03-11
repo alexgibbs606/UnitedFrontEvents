@@ -345,3 +345,7 @@ Listed changes are things KEPT from the previous version
 - Increased Heli spawn height by another 20 to prevent spawn collisions
 - Reduced vehicle spawns to 1 spawn
 - Fixed timer issue
+
+## v0.37 Change Log
+
+- Removed staging phase boxes from FOB Defense layers
