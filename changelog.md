@@ -349,3 +349,7 @@ Listed changes are things KEPT from the previous version
 ## v0.37 Change Log
 
 - Removed staging phase boxes from FOB Defense layers
+
+## v0.38 Change Log
+
+- Added Bob the Builder
