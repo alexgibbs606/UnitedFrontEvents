@@ -334,7 +334,6 @@ Listed changes are things KEPT from the previous version
 
 - Removed staging zone box
 
-
 ### UF_Tallil_Outskirts_FOBDefense_v1
 
 - Removed gamemode override
@@ -353,3 +352,18 @@ Listed changes are things KEPT from the previous version
 ## v0.38 Change Log
 
 - Added Bob the Builder
+
+## v0.39 Change Log
+
+### UF_Tallil_Outskirts_FOBDefense_v1
+
+- Fixed issue where souther main wasn't existing
+
+### UF_Yehorivka_FOBDefense_v1
+
+- Fixed issue with RUS heli not spawning
+
+### UF_Narva_HVTEscort_v1
+
+- Added new US spawn at Shipping Yard
+- Added a new RUS escape route at Marina
