@@ -43,9 +43,9 @@ Your NATO Sniper Platoon is tasked with destroying a hidden insurgent weapons ca
 [url=https://docs.google.com/document/d/1CVyPtZjW3r3GyhZs1tDADObci9r0GJn8m44u40QcMZo/edit?usp=sharing]Event Writeup[/url]
 
 [h2]Operation Survival[/h2] [b]UF_Yehorivka_FOBDefense_v1, UF_Mutaha_FOBDefense_v1, UF_Samarai_FOBDefense_v1[/b]
-[i]Symmetric USA vs. RUS one-life FOB defence with unlimited attacker spawns.[/i]
+[i]Symmetric USA vs. RUS one-life FOB defense with unlimited attacker spawns.[/i]
 
-US defenders are to maintain control of FOB at Sokolov from sqarming RUS forces. They have 40 minutes to take the point.  
+US defenders are to maintain control of FOB at Sokolov from swarming RUS forces. They have 40 minutes to take the point.  
 One-life US defends against an unrelenting RUS force at Sokolov, the US's last remaining FOB in the area. US will get the 8 minute staging phase to construct non-lethal emplacements (save .50 cal) to defend against the attack.
 
 [h2]HVT Escort[/h2] [b]UF_Narva_HVTEscort_v1[/b]
@@ -56,4 +56,4 @@ HVT escort team is tasked with escorting their HVT (commander) to a given point 
 [h2]Bolty Bois[/h2] [b]UF_Logar_BAAS_v1[/b]
 [i]Symmetric BAAS US vs. US tickets or spawn kill mission.[/i]
 
-Each team has a temporary spawn for their inital spawn to build a HAB in the compound they spawned in. They are to kill the other team while playing an AAS style game. Once the last point has been taking, the enemy main can be sieged and taken.
+Each team has a temporary spawn for their initial spawn to build a HAB in the compound they spawned in. They are to kill the other team while playing an AAS style game. Once the last point has been taking, the enemy main can be sieged and taken.
