@@ -74,7 +74,7 @@
 
 ## v0.6 Change Log
 
-v0.5 introduced major performance issues, I've rolled back and cherry picked only nessessary changes to alleviate the issue.
+v0.5 introduced major performance issues, I've rolled back and cherry picked only necessary changes to alleviate the issue.
 
 Listed changes are things KEPT from the previous version
 
@@ -248,7 +248,7 @@ Listed changes are things KEPT from the previous version
 - Team 2 - INS
   - Removed build zone
   - Updated team radio to supply cache, the objective of this game mode
-  - Reduced staging phase box size to match expeced bounds
+  - Reduced staging phase box size to match expected bounds
   - Altered role requirements to match design doc
 
 ## v0.21 Change Log
@@ -280,12 +280,12 @@ Listed changes are things KEPT from the previous version
 
 ### UF_Kohat_CacheDefense_v2
 
-- Removed unessessary points
+- Removed unnecessary points
 - Updated CAF spawns to die after 660 seconds
 - Updated all spawns to be rally spawns
 - For now, set all escape vehicles to be owned by CAF to prevent meta from INS
 - Did not update CAF role requirements, everything looks as it should be. Riflemen are considered LAT kits and shouldn't be taking. Most INF should be snipers.
-- Investigated unlocking escape point at lower mohd zai. This is possible with more work. Point exists while locked for now, will hopefully make progress on soon.
+- Investigated unlocking escape point at lower Mohd Zai. This is possible with more work. Point exists while locked for now, will hopefully make progress on soon.
 
 ### UF_Logar_Valley_BAAS_v1
 
