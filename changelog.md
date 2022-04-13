@@ -377,6 +377,10 @@ Listed changes are things KEPT from the previous version
 - Removed C4 from inventory
 - Increased build health to 101
 
+### UF_USA_BoltyBois
+
+- Set Bob the Builder to be default role
+
 ### UF_Logar_BAAS_v1
 
 - Removed US temp spawn
