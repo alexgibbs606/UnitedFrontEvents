@@ -367,3 +367,26 @@ Listed changes are things KEPT from the previous version
 
 - Added new US spawn at Shipping Yard
 - Added a new RUS escape route at Marina
+
+## v.0.40
+
+- Updated to 2.15 build
+
+### UF_USA_Builder_01 (Bob the Builder)
+
+- Removed C4 from inventory
+- Increased build health to 101
+
+### UF_Logar_BAAS_v1
+
+- Removed US temp spawn
+
+### UF_Narva_HVTEscort_v1
+
+- Moved capture zone for Airfield Escape back to Airfield
+
+### UF_Yehorivka_FOBDefense_v1
+
+- Fixed bad collision for RUS main
+  - Fixed floating deployables
+  - Fixed Heli taking damage (i think)
