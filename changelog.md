@@ -381,12 +381,20 @@ Listed changes are things KEPT from the previous version
 
 - Set Bob the Builder to be default role
 
+### Factions
+
+- Created 4 additional factions for US, RUS, and AUS that includes some additional rules
+- Replaced team roles with custom minimap view
+  - Squad members can only see their squad on the map
+  - SL's can see their squad and other SL's on the map
+- Doesn't include crewman or pilot. Layers using this faction setup shouldn't require kits to operate crewman vehicles or heli's
 ### UF_Logar_BAAS_v1
 
 - Removed US temp spawn
 
-### UF_Narva_HVTEscort_v1
+### UF_Narva_HVTEscort
 
+- Now includes all 6 layers beginning with `UF_Narva_HVTEscort`
 - Moved capture zone for Airfield Escape back to Airfield
 
 ### UF_Yehorivka_FOBDefense_v1
